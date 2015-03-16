@@ -1,0 +1,2 @@
+# StructsandEnums
+Swift Playground code
